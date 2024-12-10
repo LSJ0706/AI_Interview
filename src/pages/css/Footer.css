@@ -1,0 +1,12 @@
+.foot{
+    background: #343a40;
+    color: #fff;
+    position : relative;
+    height: 10%;
+}
+
+.mail_icon{
+    height: 35px;
+    width: 35px;   
+    margin: 10px;
+}
